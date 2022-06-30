@@ -15,7 +15,7 @@ public class Person {
 
 
     public int getAge() {
-        return 2021 - birthYear;
+        return 2022 - birthYear;
     }
 
 }
